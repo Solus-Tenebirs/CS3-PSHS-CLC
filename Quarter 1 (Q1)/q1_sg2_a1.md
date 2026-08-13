@@ -38,7 +38,11 @@ CT Skill:
 Decomposition
 
 Example Solution
-Compare current stock with the minimum threshold acceptable. Then, send an alert to the supplier of the item that exceeded the minimum accepted threshold.
+Divide the monitoring into different steps.
+1.) Check current stock
+2.) Compare current stock with the minimum threshold acceptable.  
+3.) If an item falls below the minimum threshold, identify said item
+4.) Send an alert to the supplier of the item that fell below the minimum accepted threshold.
 
 Sub-Problem 2:
 Vending machine fails to provide the correct change for the consumer goods
@@ -63,8 +67,8 @@ CT Skill:
 Abstraction
 
 Example Solution:
-Treat every person as an individual instance instead of  a collection of data. 
-Clear memory after every order.
+Treat every person as an individual instance instead of keeping data from previous transactions. 
+Keep only the required data for the current transaction and clear memory of unnecessary data after every order.
 
 Sub-Problem 4:
 Vending machine does not confirm orders or when the buttons are pressed
@@ -74,7 +78,10 @@ Pattern recognition and Logical thinking
 
 Example Solution:
 Identify repeated human errors such as accidental presses, and implement a system which asks to confirm your selection.
+Show a screen which displays the item and its price with the words Confirm and Cancel at the bottom. 
+If the person clicks cancel, remove the item from their transaction.
+If the person clicks confirm, add the item to their transaction.
 
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem (Your group could use a separate sheet of paper)
-
+- **Ill do this later** -
