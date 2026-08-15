@@ -15,24 +15,25 @@ The machine is slow when multiple students use it in succession.
 Your task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
 
 Step 1: Identify the Big Problem
-Main Problem: Vending Machine is inefficient, is unreliable, and is prone to mechanical failures
+Main Problem: The school vending machine is unreliable, lacks proper feedback, is prone to user error, and performs poorly under repeated use and that results in a frustrating and unsatisfactory experience for students.
 
 Step 2: Identify three to four Sub-Problems
 Please list possible sub-problems:
 
-1. Vending machine does not notify the supplier when items run out
+1. Missing stock monitoring and alert system - The machine cannot detect when items are sold out, nor automatically send a notification to staff to restock.
 
-2. Vending machine fails to provide the correct change for the consumer goods
-  
-3. Vending machine starts to become sluggish after repeated use.
-   
-4. Vending machine does not confirm orders or when the buttons are pressed
+2. Incorrect change - The machine fails to properly compute, count, or return the correct amount of money after payment.
+
+3. Slow performance during prolonged use - The machine’s processing or dispensing speed degrades when many students use it one after another, which shows inefficient workflow.
+
+4. Unclear or error-prone user interface - Buttons/labels are confusing or lack  steps, so students easily select the wrong products.
+
 
 Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
 
 Sub-Problem 1:
-Vending machine does not notify the supplier when items run out
+Missing stock monitoring and alert system - The machine cannot detect when items are sold out, nor automatically send a notification to staff to restock.
 
 CT Skill:
 Decomposition
@@ -45,7 +46,7 @@ Divide the monitoring into different steps.
 4.) Send an alert to the supplier of the item that fell below the minimum accepted threshold.
 
 Sub-Problem 2:
-Vending machine fails to provide the correct change for the consumer goods
+Incorrect change - The machine fails to properly compute, count, or return the correct amount of money after payment.
 
 
 CT Skill: 
@@ -60,7 +61,7 @@ Provide exactly how many of each coin/bill to the consumer
 
 
 Sub-Problem 3:
-Vending machine starts to become sluggish after repeated use.
+Slow performance during prolonged use - The machine’s processing or dispensing speed degrades when many students use it one after another, which shows inefficient workflow.
 
    
 CT Skill: 
@@ -71,7 +72,7 @@ Treat every person as an individual instance instead of keeping data from previo
 Keep only the required data for the current transaction and clear memory of unnecessary data after every order.
 
 Sub-Problem 4:
-Vending machine does not confirm orders or when the buttons are pressed
+Unclear or error-prone user interface - Buttons/labels are confusing or lack  steps, so students easily select the wrong products.
 
 CT Skill: 
 Pattern recognition and Logical thinking
