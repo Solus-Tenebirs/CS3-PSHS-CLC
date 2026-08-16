@@ -32,13 +32,17 @@ Step 2: Identify three to four Sub-Problems
 Please list possible sub-problems:
 
 1. Missing stock monitoring and alert system - The machine cannot detect when items are sold out, nor automatically send a notification to staff to restock.
+<br>
 
 2. Incorrect change - The machine fails to properly compute, count, or return the correct amount of money after payment.
+<br>
 
 3. Slow performance during prolonged use - The machine’s processing or dispensing speed degrades when many students use it one after another, which shows inefficient workflow.
+<br>
 
 4. Unclear or error-prone user interface - Buttons/labels are confusing or lack  steps, so students easily select the wrong products.
 
+<br>
 
 Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
@@ -52,9 +56,16 @@ Decomposition
 Example Solution
 Divide the monitoring into different steps.
 1.) Check current stock
-2.) Compare current stock with the minimum threshold acceptable.  
+<br>
+
+2.) Compare current stock with the minimum threshold acceptable. 
+<br>
+
 3.) If an item falls below the minimum threshold, identify said item
+<br>
+
 4.) Send an alert to the supplier of the item that fell below the minimum accepted threshold.
+<br>
 
 Sub-Problem 2:
 Incorrect change - The machine fails to properly compute, count, or return the correct amount of money after payment.
@@ -65,10 +76,19 @@ Algorithm
 
 Example Solution:
 Scan the coin or bill inserted. 
+<br>
+
 Then, compare the value of the coin/bill to the value of the desired consumer good.
+<br>
+
 Subtract the value of the desired consumer good from the value of the coin/bill.
+<br>
+
 Scan the coins/bills in the change registrar and compute how many of each shall be given to the consumer to match the change
+<br>
+
 Provide exactly how many of each coin/bill to the consumer
+<br>
 
 
 Sub-Problem 3:
@@ -80,7 +100,10 @@ Abstraction
 
 Example Solution:
 Treat every person as an individual instance instead of keeping data from previous transactions. 
+<br>
+
 Keep only the required data for the current transaction and clear memory of unnecessary data after every order.
+<br>
 
 Sub-Problem 4:
 Unclear or error-prone user interface - Buttons/labels are confusing or lack  steps, so students easily select the wrong products.
@@ -90,9 +113,16 @@ Pattern recognition and Logical thinking
 
 Example Solution:
 Identify repeated human errors such as accidental presses, and implement a system which asks to confirm your selection.
+<br>
+
 Show a screen which displays the item and its price with the words Confirm and Cancel at the bottom. 
+<br>
+
 If the person clicks cancel, remove the item from their transaction.
+<br>
+
 If the person clicks confirm, add the item to their transaction.
+<br>
 
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem (Your group could use a separate sheet of paper)
