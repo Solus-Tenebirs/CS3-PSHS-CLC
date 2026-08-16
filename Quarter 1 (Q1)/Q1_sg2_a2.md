@@ -17,6 +17,7 @@ C# / Name: #3 / Arellano, Joaquin Ethan D.
 
 <br>
 Date: August 16,2026
+
 <br>
 Instructions:
 
@@ -75,11 +76,9 @@ Questions with Checklists
 1. Efficiency
 Which algorithm is faster when the list of numbers is very large? Why?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+<u>I believe that the first pseudocode is faster when the list of numbers is very large because it contains
+fewer calculations compared to the second pseudocode. The first pseudocode only has one loop, while the 
+second has two nested loops that perform the same operation as the loop in the first pseudocode.</u>
 
 
 PseudoCode 1
