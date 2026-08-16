@@ -2,7 +2,6 @@ Annex B
 Computational Thinking Exercise: "Smart Vending Machine"
 <br>
 Section: 9-Samat                 
-
 <br>
 Score:____________
 
