@@ -2,7 +2,7 @@ Annex B
 Computational Thinking Exercise: "Smart Vending Machine"
 Section: 9-Samat                  Score:____________
 
-C# / Name: #1 / Abad,  Calix    (Partner)        &nbsp:       Date: August 14,2026
+C# / Name: #1 / Abad,  Calix    (Partner)        &nbsp;       Date: August 14,2026
 <br>
 C# / Name: #2 / Angeles, Peter Jharielle   (Partner)
 <br>
