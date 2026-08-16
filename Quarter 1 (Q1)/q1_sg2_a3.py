@@ -24,6 +24,6 @@ if age < 1900:
     print ("Invalid Year, it should not be earlier than 1900.")
 else:
     result = (age - baseline)%12
-    print (f"Your Chinese Zodiac Sign is : {zodiac_signs[result]}"))
+    print (f"Your Chinese Zodiac Sign is : {zodiac_signs[result]}")
 
 
