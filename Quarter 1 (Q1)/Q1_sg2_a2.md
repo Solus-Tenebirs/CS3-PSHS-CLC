@@ -17,7 +17,7 @@ C# / Name: #3 / Arellano, Joaquin Ethan D.
 
 <br>
 Date: August 16,2026
-
+<br>
 Instructions:
 
 The problem: Finding the highest (Maximum) number from a given list of numbers.
