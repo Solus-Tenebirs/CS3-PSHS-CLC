@@ -6,10 +6,10 @@ Section: 9-Samat
 <br>
 Score:____________
 
-C# / Name: #1 / Abad,  Calix    (Partner)               
+C# / Name: #1 / Abad,  Calix              
 <br>
 
-C# / Name: #2 / Angeles, Peter Jharielle   (Partner)
+C# / Name: #2 / Angeles, Peter Jharielle
 
 <br>
 
