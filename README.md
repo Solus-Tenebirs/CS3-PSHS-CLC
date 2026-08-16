@@ -13,6 +13,4 @@ Links to my works in CS3:
 <br>
 
 2.) [Quarter 1 SG2 Activity 2](https://github.com/Solus-Tenebirs/CS3-PSHS-CLC/blob/b726a3611de0d09f7b5ae7b7131963d5f360210e/Quarter%201%20(Q1)/Q1_sg2_a2.md)
-<br>
 
-3.) [Quarter 1 SG2 Activity 3](https://github.com/Solus-Tenebirs/CS3-PSHS-CLC/blob/afcca6b0e6aedd5e3dc47b0db5d0a4f2bbd79f63/Quarter%201%20(Q1)/q1_sg2_a3.py)
