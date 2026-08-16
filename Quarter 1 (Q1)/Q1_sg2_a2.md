@@ -84,30 +84,34 @@ second has two nested loops that perform the same operation as the loop in the f
 
 PseudoCode 1
 
+Does the algorithm use one loop or two nested loops?
+- The algorithm uses one loop
+
+Does the algorithm repeat work unnecessarily?
+
+Which algorithm finishes in fewer steps?
+
+
+
 PseudoCode 2
 
-walang check Does the algorithm use one loop or two nested loops?
+Does the algorithm use one loop or two nested loops?
 
 walang check Does the algorithm repeat work unnecessarily?
 
 walang check Which algorithm finishes in fewer steps?
 
-walang check Does the algorithm use one loop or two nested loops?
 
-walang check Does the algorithm repeat work unnecessarily?
 
-walang check Which algorithm finishes in fewer steps?
 
-Checklist to guide your answer:
 2. Readability
 
 Which algorithm is easier to understand at first glance? What makes it clearer?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+<ins> In my opinion, the first algorithm is easier to understand at a first glance because 
+it's processes are more compact and it does not waste lines on useless if and for statements.
+It's logic is also easier to understand because there are fewer lines of code and the variable
+names are clear, specific, and meaningful. </ins>
 
 Checklist to guide your answer:
 
@@ -130,11 +134,11 @@ walang checkAre there fewer lines of code?
 3. Maintainability
 If you had to add a new feature (like finding both max and min), which algorithm would be easier to update? Why?
 
-_________________________________________________________________
+<ins> The first algorithm would be easier to update because its structure is straightforward, and because it is so
+straightforward; the user can easily identify which lines of code are the main processes, and add new steps
+accordingly. This makes it have less chance to break from adding new steps, and decreases the probability
+of errors appearing when updating. </ins>
 
-_________________________________________________________________
-
-_________________________________________________________________
 
 Checklist to guide your answer:
 
@@ -157,11 +161,12 @@ walang check Is there less chance of errors when updating?
 4. Testability
 Which algorithm is easier to test with different inputs? Why?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+<ins> The first pseudocode is easier to test different inputs since the user only needs to change
+the contents of one list, and; the user does not need to worry as much on missing a condition, which
+would lead to the code breaking from invalid input. The easy-to-read nature of the first pseudocode
+also makes the output predictable and clear to the user, and it allows them to test both small lists
+and large lists without issue.
+</ins>
 
 Checklist to guide your answer:
 
