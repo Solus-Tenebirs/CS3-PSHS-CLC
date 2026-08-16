@@ -76,9 +76,12 @@ Questions with Checklists
 1. Efficiency
 Which algorithm is faster when the list of numbers is very large? Why?
 
-<u> I believe that the first pseudocode is faster when the list of numbers is very large because it contains
+I believe that the first pseudocode is faster when the list of numbers is very large because it contains
 fewer calculations compared to the second pseudocode. The first pseudocode only has one loop, while the 
 second has two nested loops that perform the same operation as the loop in the first pseudocode. </u>
+<u>This is the first line of text.
+This is the second line of text.
+This is the third line of text.</u>
 
 
 PseudoCode 1
