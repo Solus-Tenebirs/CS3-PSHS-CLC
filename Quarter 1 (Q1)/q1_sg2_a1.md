@@ -96,4 +96,4 @@ If the person clicks confirm, add the item to their transaction.
 
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem (Your group could use a separate sheet of paper)
-- **Ill do this later** -
+[- **Flowchart for Sub problem 2** -](https://canva.link/d4nse31t7fmz4w5)
