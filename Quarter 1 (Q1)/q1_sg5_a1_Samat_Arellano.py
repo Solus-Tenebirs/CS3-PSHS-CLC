@@ -1,3 +1,9 @@
+'''
+#3 Arellano, Joaquin Ethan D.
+9-Samat
+September 4, 2026
+'''
+
 class Hero:
     def __init__(self, name, hp):
         self.name = name
