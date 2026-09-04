@@ -1,3 +1,9 @@
+'''
+#3 Arellano, Joaquin Ethan D.
+9-Samat
+September 4, 2026
+'''
+
 class Lab:
     def __init__(self, room_number):
         self.room_number = room_number
