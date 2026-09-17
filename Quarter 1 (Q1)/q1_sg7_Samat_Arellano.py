@@ -1,3 +1,8 @@
+'''
+#3 Arellano, Joaquin Ethan D.
+9-Samat
+September 17, 2026
+'''
 class Glassware:
     def __init__(self, kindofglassware):
         self.kindofglassware = kindofglassware
