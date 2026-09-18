@@ -17,6 +17,7 @@ Links to my works in CS3:
 3.) [Quarter 1 SG2 Activity 3](https://github.com/Solus-Tenebirs/CS3-PSHS-CLC/blob/bb6e546449d4c69e0e180991703528d855cba616/Quarter%201%20(Q1)/q1_sg2_a3.py)
 
 4.) [Quarter 1 SG5 Activity 1](https://github.com/Solus-Tenebirs/CS3-PSHS-CLC/blob/bb6e546449d4c69e0e180991703528d855cba616/Quarter%201%20(Q1)/q1_sg5_a1_Samat_Arellano.py)                                             
+
 5.) [Quarter 1 SG6](https://github.com/Solus-Tenebirs/CS3-PSHS-CLC/blob/bb6e546449d4c69e0e180991703528d855cba616/Quarter%201%20(Q1)/q1_sg6_Samat_Arellano.py)
 
 6.)[Quarter 1 SG7](https://github.com/Solus-Tenebirs/CS3-PSHS-CLC/blob/bb6e546449d4c69e0e180991703528d855cba616/Quarter%201%20(Q1)/q1_sg7_Samat_Arellano.py)
